@@ -15,10 +15,10 @@
       "name": "School project Luna",
       "heading1": "Luna",
       "description": "Luna is a product that helps children that are afraid in the dark. We have build a prototype and a website",
-      "thumbnail": "./images/luna/lunathumbnail.png",
+      "thumbnail": "../images/luna/lunathumbnail.png",
       "bgcolor": "#7807DC",
-      "banner": "./images/luna/lunabanner.jpg",
-      "image": "./images/luna/luna.png",
+      "banner": "../images/luna/lunabanner.jpg",
+      "image": "../images/luna/luna.png",
       "demolink": "https://thekevster35.github.io/luna/"
     },
     {
@@ -27,9 +27,9 @@
       "heading1": "Albus",
       "description": "Albus is a interactive device that helps children searching for a new book. They can interact with a avatar character (Albus) And he will help the children for a new book.",
       "bgcolor": "#619CC4",
-      "thumbnail": "./images/albus/albusthumbnail.png",
-      "banner": "./images/albus/albusbanner.jpg",
-      "image": "./images/albus/albusconcept.jpg"
+      "thumbnail": "../images/albus/albusthumbnail.png",
+      "banner": "../images/albus/albusbanner.jpg",
+      "image": "../images/albus/albusconcept.jpg"
     },
     {
       "id": 4,
@@ -37,9 +37,9 @@
       "heading1": "Visual Interface Design",
       "description": "Visual Interface Design is a profession that is primarily to master the visual. At VID, the assignment was to design a mobile app as pixel-perfect as possible. For example of the right colors and shapes. With this app you can search a book at OBA",
       "bgcolor": "#c1c27a",
-      "thumbnail": "./images/vid/vidthumbnail.png",
-      "banner": "./images/vid/vidbanner.jpg",
-      "image": "./images/vid/vidconcept.png"
+      "thumbnail": "../images/vid/vidthumbnail.png",
+      "banner": "../images/vid/vidbanner.jpg",
+      "image": "../images/vid/vidconcept.png"
     },
     {
       "id": 5,
@@ -47,9 +47,9 @@
       "heading1": "Timmerwerken en Dakonderhoud",
       "description": "build a website for the carperter Arjan van der neut.",
       "bgcolor": "#231F20",
-      "thumbnail": "./images/arjan/arjanthumbnail.png",
-      "banner": "./images/arjan/arjanbanner.jpg",
-      "image": "./images/arjan/arjanconcept.png",
+      "thumbnail": "../images/arjan/arjanthumbnail.png",
+      "banner": "../images/arjan/arjanbanner.jpg",
+      "image": "../images/arjan/arjanconcept.png",
       "demolink": "http://www.arjanvanderneut.nl/"
     },
     {
@@ -58,9 +58,9 @@
       "heading1": "Transavia Storytelling",
       "description": "For this project i had to build a website for travelers where they can read story's. Also i made a story in graffiti style.",
       "bgcolor": "#F3E5D8",
-      "thumbnail": "./images/projectweb/projectwebthumbnail.png",
-      "banner": "./images/projectweb/projectwebbanner.jpg",
-      "image": "./images/projectweb/projectwebconcept.png",
+      "thumbnail": "../images/projectweb/projectwebthumbnail.png",
+      "banner": "../images/projectweb/projectwebbanner.jpg",
+      "image": "../images/projectweb/projectwebconcept.png",
       "demolink": "https://thekevster35.github.io/projectweb/index.html"
     },
     {
@@ -69,9 +69,9 @@
       "heading1": "Custom YuGiOH Playmat",
       "description": "I made a Custom Playmat for my favorite card game Yu-Gi-Oh!. I added a few things that helps new player for playing the game.",
       "bgcolor": "#C23B22",
-      "thumbnail": "./images/playmat/playmatconcept.png",
-      "banner": "./images/playmat/yugiohbanner.jpg",
-      "image": "./images/playmat/playmatconcept.png"
+      "thumbnail": "../images/playmat/playmatconcept.png",
+      "banner": "../images/playmat/yugiohbanner.jpg",
+      "image": "../images/playmat/playmatconcept.png"
     },
     {
       "id": 8,
@@ -79,9 +79,9 @@
       "heading1": "CSS to the rescue",
       "description": "During CSS to the rescue i had to creating something with only CSS. So I made a old school arcade game in a 80s neon style. I have used @keyframes and transform: perspective for the first time and working with svg.",
       "bgcolor": "linear-gradient(90deg, #380CD6, #E50AE7, #380CD6)",
-      "thumbnail": "./images/cttr/ctrr-thumbnail.svg",
-      "banner": "./images/cttr/cttr-banner.jpg",
-      "image": "./images/cttr/cttr-demo.gif",
+      "thumbnail": "../images/cttr/ctrr-thumbnail.svg",
+      "banner": "../images/cttr/cttr-banner.jpg",
+      "image": "../images/cttr/cttr-demo.gif",
       "repository": "https://github.com/TheKevSter35/css-to-the-rescue-1920",
       "demolink": "https://thekevster35.github.io/css-to-the-rescue-1920/"
     },
@@ -91,9 +91,9 @@
       "heading1": "Nerdy shirt ink",
       "description": "Nerdy shirt ink is made as part of a course from @cmda-minor-web 1920. In this course i had to build a website for all the users, With the core functions still work in (almost) all browser. Build the site based on progressive enhancement.",
       "bgcolor": "#8D0CDF",
-      "thumbnail": "./images/br/brthumbnail.png",
-      "banner": "./images/br/brbanner.png",
-      "image": "./images/br/brconcept.png",
+      "thumbnail": "../images/br/brthumbnail.png",
+      "banner": "../images/br/brbanner.png",
+      "image": "../images/br/brconcept.png",
       "repository": "https://github.com/TheKevSter35/browser-technologies-1920",
       "demolink": "https://nerdyshirtink.herokuapp.com/"
     },
@@ -103,9 +103,9 @@
       "heading1": "Discover Gifs PWA",
       "description": "With Discover Gifs api you can search gifs. Basis of keywords it will search any gif and generates a list with that keyword.",
       "bgcolor": "#128bc2",
-      "thumbnail": "./images/pwa/pwathumbnail.png",
-      "banner": "./images/pwa/pwabanner.jpg",
-      "image": "./images/pwa/pwathumbnail.png",
+      "thumbnail": "../images/pwa/pwathumbnail.png",
+      "banner": "../images/pwa/pwabanner.jpg",
+      "image": "../images/pwa/pwathumbnail.png",
       "repository": "https://github.com/TheKevSter35/progressive-web-apps-1920",
       "demolink": "https://discover-gifs.herokuapp.com/"
     },
@@ -115,9 +115,9 @@
       "heading1": "Game of Trivia",
       "description": "During this course you will learn how to build a meaningful real-time application. You will learn techniques to setup an open connection between the client and the server. This will enable you to send data in real-time both ways, at the same time.",
       "bgcolor": "#202024",
-      "thumbnail": "./images/rtw/rtw.png",
-      "banner": "./images/rtw/rtwbanner.png",
-      "image": "./images/rtw/rtwbanner.png",
+      "thumbnail": "../images/rtw/rtw.png",
+      "banner": "../images/rtw/rtwbanner.png",
+      "image": "../images/rtw/rtwbanner.png",
       "repository": "https://github.com/TheKevSter35/real-time-web-1920"
     },
     {
@@ -126,9 +126,9 @@
       "heading1": "Learning math with blocks",
       "description": "For my graduation project i created a learning platform for children. Rekenen in blokjes (Math in Blocks) consists of 2 environments.A student portal where children can do the exercises.And a mentor portal where the mentor can assign exercise and view the results of a student. Many thanks to Lerespel for helping me with my project ",
       "bgcolor": "#36223E",
-      "thumbnail": "./images/rib/ribthumbnail.png",
-      "banner": "./images/rib/ribbanner.jpg",
-      "image": "./images/rib/ribconcept.jpg",
+      "thumbnail": "../images/rib/ribthumbnail.png",
+      "banner": "../images/rib/ribbanner.jpg",
+      "image": "../images/rib/ribconcept.jpg",
       "demolink": "https://xd.adobe.com/view/69de6060-1765-4884-8f82-b472c0e034d4-3c8d/?fullscreen&hints=off"
     },
     {
@@ -137,9 +137,9 @@
       "heading1": "Portfolio Redesign",
       "description": "Portfolio Redesign",
       "bgcolor": "#7a7a7a",
-      "thumbnail": "./images/vid/vidthumbnail.png",
-      "banner": "./images/vid/vidbanner.jpg",
-      "image": "./images/vid/vidconcept.png"
+      "thumbnail": "../images/vid/vidthumbnail.png",
+      "banner": "../images/vid/vidbanner.jpg",
+      "image": "../images/vid/vidconcept.png"
     }
   ]
 }
