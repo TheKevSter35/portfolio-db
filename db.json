@@ -4,10 +4,10 @@
       "name": "School project Step into the jungle",
       "heading1": "Step into the jungle",
       "description": "Step into the jungle (SITJ) is a guide for international students who are going to study in Amsterdam. the assignment was to make a website/app about the book",
-      "thumbnail": "./images/sitj-project1/sitjthumbnail.png",
+      "thumbnail": "../images/sitj-project1/sitjthumbnail.png",
       "bgcolor": "#AAAAAA",
-      "banner": "./images/sitj-project1/sitjbanner.png",
-      "image": "./images/sitj-project1/sitjboek.png",
+      "banner": "../images/sitj-project1/sitjbanner.png",
+      "image": "../images/sitj-project1/sitjboek.png",
       "demolink": "http://kevincuri.nl/demo/sitj/index.php"
     },
     {
