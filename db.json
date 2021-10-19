@@ -135,11 +135,11 @@
       "id": 13,
       "name": "Portfolio Redesign",
       "heading1": "Portfolio Redesign",
-      "description": "Portfolio Redesign",
+      "description": "It was time to give my old portfolio site a redesign. The portfolio is build with the React Framework and i created a json server for API calls for all my texts and images. I'm very happy with the final result ",
       "bgcolor": "#7a7a7a",
       "thumbnail": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/portfolio-redesign/kcthumbnail.svg",
-      "banner": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/vid/vidbanner.jpg",
-      "image": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/vid/vidconcept.png"
+      "banner": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/portfolio-redesign/kcbanner.jpg",
+      "image": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/portfolio-redesign/kcconcept.png"
     }
   ]
 }
