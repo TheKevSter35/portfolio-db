@@ -160,9 +160,9 @@
       "description_nl": "In mijn portfolio heb ik een translation package toegevoegd genaamd i18next. Nu kunnen bezoekers de talen nederlands of engels kiezen en de website zal het in die taal veranderen.",
       "description_en": "In my portfolio i have added a translation package named i18next. Now visitors kan choose the languages dutch or english and de website will change to that language.",
       "bgcolor": "#1C1B37",
-      "thumbnail": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/i18nextthumbnail.png",
-      "banner": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/i18nextbanner.jpeg",
-      "image": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/i18nextthumbnail.png"
+      "thumbnail": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/i18next/i18nextthumbnail.png",
+      "banner": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/i18next/i18nextbanner.jpeg",
+      "image": "https://raw.githubusercontent.com/TheKevSter35/portfolio-db/master/images/i18next/i18nextthumbnail.png"
     }
   ]
 }
